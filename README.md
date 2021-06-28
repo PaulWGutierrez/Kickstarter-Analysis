@@ -13,3 +13,9 @@
 ### The challenges and difficulties I encountered were minimal. Some of the functions that needed to be executed were a bit confusing, but I got help from others, as well as watching the video resources that were available which explained step by step on how to execute the functions properly.
 
 # Results
+
+- The two conclusions I can draw about the Outcomes based on Launch Date are there was a very low percentage of cancellation throughout the year. Throughout the year there the theater outcomes were successful all above 50% except for the month of December.
+
+- The conclusion I can draw about the Outcomes based on Goals is the outcome was at its peak when the goal aimed less than $1000. Starting from $15000 to greater than $50000 the successful and failure outcomes were not steady, but there was also an indication the successful outcome trend was overall decreasing, where as the failed outcome percentage trend was increasing overall.
+
+- limitations of dataset
